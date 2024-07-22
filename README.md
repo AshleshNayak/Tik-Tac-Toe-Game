@@ -33,10 +33,11 @@ This project is a simple implementation of Tic Tac Toe, suitable for beginners w
 2.Navigate to the project directory:
   cd tic-tac-toe
 
-🚀 Usage
+🚀 Usage:
 
 Open index.html in your web browser to start the game.
-🛠 Technologies Used
+
+🛠 Technologies Used:
 
     HTML: Used to create the structure of the game.
     CSS: Used to style the game board and other elements.
